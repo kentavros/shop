@@ -1,0 +1,13 @@
+.error {
+    color: red;
+    font-weight: bold;
+}
+.good {
+    color: green;
+    font-weight: bold;
+}
+.categories {
+    color: mediumblue;
+    font-weight: bold;
+    font-size: x-large;
+}
